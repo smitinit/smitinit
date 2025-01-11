@@ -1,4 +1,4 @@
-# Yello favs!😍 sup👋
+# 😀 Yello favs!  sup👋
 - 👋 I’m smit 😎
   
 - 👀 I do Web Development!
@@ -7,7 +7,7 @@
   
 - 😄 Pronouns: he/him🗿
   
-- ⚡ Fun fact: i don't know why i do this....🥲
+- ⚡ Fun fact: Typescript sucks🥲
 
  
 ## Some Languages That I Know
