@@ -1,4 +1,4 @@
-# 😀 Yello favs!  sup👋
+# 😀 Sup👋
 - 👋 I’m smit 😎
   
 - 👀 I like Web Development!
