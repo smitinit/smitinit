@@ -1,15 +1,12 @@
 # 😀 Yello favs!  sup👋
 - 👋 I’m smit 😎
   
-- 👀 I do Web Development!
+- 👀 I like Web Development!
   
 - 🌱 I’m currently 🔍learning Typescript🫡
   
 - 😄 Pronouns: he/him🗿
-  
-- ⚡ Fun fact: Typescript sucks🥲
 
- 
 ## Some Languages That I Know
 
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
